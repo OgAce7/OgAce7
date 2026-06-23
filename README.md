@@ -1,5 +1,12 @@
+<h1 align="center">Hey there 👋, I'm Devansh</h1>
+<h3 align="center">Data Science Student | GenAI Enthusiast | ML Explorer</h3>
+
+<p align="center">
+  <i>Probably napping or coding while grooving to music</i>
+</p>
+
 # 💫 About Me:
-👋 Hi, I'm Devansh!<br><br>💻 I am a Data Science student passionate about building intelligent (and some not-so intelligent) systems and solving problems through technology.<br><br>🚀 My tech stack includes:<br><br>* **Languages:** Python, C/C++, Java<br>* **Web & Full Stack Development:** HTML, CSS, React.js, Streamlit<br>* **API/Backend:** Flask, FastAPI, Node.js<br>* **AI & Data:** PyTorch, Scikit-learn, FAISS, NumPy, Pandas, Matplotlib<br>* **Databases:** MongoDB, PostgreSQL, Neo4j, MySQL<br>* **Tools:** Git, Github, VS Code<br><br>🤖 Currently exploring and building in the fields of **Generative AI** and **Machine Learning**, with a strong interest in:<br><br>* Large Language Models (LLMs)<br>* Retrieval-Augmented Generation (RAG)<br>* AI-powered applications<br>* Data Analysis & Predictive Modeling<br>* Intelligent Automation<br><br>📊 I enjoy working with data, uncovering insights and understanding how information can be transformed into impactful solutions.<br><br>🌱 Driven by curiosity, I love learning new technologies, experimenting with ideas and continuously pushing myself.<br><br>✨ Always open to collaborating on exciting projects, hackathons and innovative AI-driven (and non-AI driven) solutions.<br>
+💻 Data Science student<br><br>🚀 My Tech Stack:<br><br>* **Languages:** Python, C/C++, Java<br>* **Web & Full Stack Development:** HTML, CSS, React.js, Streamlit<br>* **API/Backend:** Flask, FastAPI, Node.js<br>* **AI & Data:** PyTorch, Scikit-learn, FAISS, NumPy, Pandas, Matplotlib<br>* **Databases:** MongoDB, PostgreSQL, Neo4j, MySQL<br>* **Tools:** Git, Github, VS Code<br><br>🤖 Currently exploring and building in the fields of **Generative AI** and **Machine Learning**, with a strong interest in:<br><br>* Large Language Models (LLMs)<br>* Retrieval-Augmented Generation (RAG)<br>* AI-powered applications<br>* Data Analysis & Predictive Modeling<br>* Intelligent Automation<br><br>📊 I enjoy working with data, uncovering insights and understanding how information can be transformed into impactful solutions.<br><br>🌱 Driven by curiosity, I love learning new technologies, experimenting with ideas and continuously pushing myself.<br><br>✨ Always open to collaborating on exciting projects, hackathons and innovative AI-driven (and non-AI driven) solutions.<br>
 
 
 ## 🌐 Socials:
@@ -12,14 +19,10 @@
 ![](https://streak-stats.demolab.com/?user=OgAce7&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=OgAce7&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=OgAce7&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=OgAce7&limit=5&theme=radical&combine_all_yearly_contributions=true)
 
 ---
 [![](https://komarev.com/ghpvc/?username=OgAce7&icon=3&color=2)](https://visitcount.itsvg.in)
